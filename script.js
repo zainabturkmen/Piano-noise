@@ -70,6 +70,3 @@ function startNote(noteDetail, gain) {
 
 
 
-
-
-
