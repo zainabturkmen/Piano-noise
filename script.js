@@ -59,8 +59,6 @@ function playNotes() {
 
 
 
-
-
 function startNote(noteDetail, gain) {
   const gainNode = audioContext.createGain()
   gainNode.gain.value = gain
