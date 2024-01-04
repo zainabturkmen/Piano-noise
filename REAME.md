@@ -4,6 +4,3 @@ MIDI PIANO
 
 ------------------------------
 Happy codding
-
-
-
