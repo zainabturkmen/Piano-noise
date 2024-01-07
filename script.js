@@ -67,3 +67,11 @@ function startNote(noteDetail, gain) {
   oscillator.start()
   noteDetail.oscillator = oscillator
 }
+
+
+
+
+
+
+
+
