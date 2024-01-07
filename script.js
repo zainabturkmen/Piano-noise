@@ -48,6 +48,7 @@ function playNotes() {
       n.oscillator.stop()
       n.oscillator.disconnect()
     }
+    
   })
 
   const activeNotes = NOTE_DETAILS.filter(n => n.active)
